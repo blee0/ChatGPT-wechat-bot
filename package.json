@@ -23,7 +23,7 @@
   "author": "Jin",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^18.11.11",
+    "@types/node": "^18.14.0",
     "chatgpt": "^4.2.0",
     "p-timeout": "^6.0.0",
     "qrcode-terminal": "^0.12.0",
